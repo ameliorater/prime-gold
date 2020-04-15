@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c614e55-0dec-456b-943f-fe2d93a37bb2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aY0bGvQee4UjznNM7S4X4tQuOE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Python.primegold">
+    <configuration name="primegold" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/primegold.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.primegold" />
+        <item itemvalue="Python.scratch_3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c614e55-0dec-456b-943f-fe2d93a37bb2" name="Default Changelist" comment="" />
+      <created>1586897289222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586897289222</updated>
+      <workItem from="1586897292543" duration="20000" />
+      <workItem from="1586897325421" duration="6944000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="726" y="315" width="1107" height="859" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586898191544">
+      <screen x="0" y="48" width="2560" height="1392" />
+    </state>
+    <state x="726" y="315" width="1107" height="859" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.48.2560.1392@0.48.2560.1392" timestamp="1586898191544" />
+    <state width="2494" height="360" key="GridCell.Tab.0.bottom" timestamp="1586981341699">
+      <screen x="0" y="48" width="2560" height="1392" />
+    </state>
+    <state width="2494" height="360" key="GridCell.Tab.0.bottom/0.48.2560.1392@0.48.2560.1392" timestamp="1586981341699" />
+    <state width="2494" height="360" key="GridCell.Tab.0.center" timestamp="1586981341698">
+      <screen x="0" y="48" width="2560" height="1392" />
+    </state>
+    <state width="2494" height="360" key="GridCell.Tab.0.center/0.48.2560.1392@0.48.2560.1392" timestamp="1586981341698" />
+    <state width="2494" height="360" key="GridCell.Tab.0.left" timestamp="1586981341698">
+      <screen x="0" y="48" width="2560" height="1392" />
+    </state>
+    <state width="2494" height="360" key="GridCell.Tab.0.left/0.48.2560.1392@0.48.2560.1392" timestamp="1586981341698" />
+    <state width="2494" height="360" key="GridCell.Tab.0.right" timestamp="1586981341699">
+      <screen x="0" y="48" width="2560" height="1392" />
+    </state>
+    <state width="2494" height="360" key="GridCell.Tab.0.right/0.48.2560.1392@0.48.2560.1392" timestamp="1586981341699" />
+    <state x="797" y="494" key="com.intellij.ide.util.TipDialog" timestamp="1586897327562">
+      <screen x="0" y="48" width="2560" height="1392" />
+    </state>
+    <state x="797" y="494" key="com.intellij.ide.util.TipDialog/0.48.2560.1392@0.48.2560.1392" timestamp="1586897327562" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test$primegold.coverage" NAME="primegold Coverage Results" MODIFIED="1586981341679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$scratch_3.coverage" NAME="scratch_3 Coverage Results" MODIFIED="1586980844705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+  </component>
+</project>
