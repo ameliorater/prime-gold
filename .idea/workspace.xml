@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c614e55-0dec-456b-943f-fe2d93a37bb2" name="Default Changelist" comment="" />
+    <list default="true" id="3c614e55-0dec-456b-943f-fe2d93a37bb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/amelia.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rpackages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primegold.py" beforeDir="false" afterPath="$PROJECT_DIR$/primegold.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aY0bGvQee4UjznNM7S4X4tQuOE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,8 +33,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../botface" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager" selected="Python.primegold">
@@ -89,7 +102,10 @@
       <option name="presentableId" value="Default" />
       <updated>1586897289222</updated>
       <workItem from="1586897292543" duration="20000" />
-      <workItem from="1586897325421" duration="6944000" />
+      <workItem from="1586897325421" duration="13374000" />
+      <workItem from="1587067340233" duration="3000" />
+      <workItem from="1587137316041" duration="1082000" />
+      <workItem from="1587225830633" duration="10666000" />
     </task>
     <servers />
   </component>
@@ -101,29 +117,57 @@
       <screen x="0" y="48" width="2560" height="1392" />
     </state>
     <state x="726" y="315" width="1107" height="859" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.48.2560.1392@0.48.2560.1392" timestamp="1586898191544" />
-    <state width="2494" height="360" key="GridCell.Tab.0.bottom" timestamp="1586981341699">
+    <state x="100" y="148" width="2360" height="1192" key="DiffContextDialog" timestamp="1587249416138">
       <screen x="0" y="48" width="2560" height="1392" />
     </state>
-    <state width="2494" height="360" key="GridCell.Tab.0.bottom/0.48.2560.1392@0.48.2560.1392" timestamp="1586981341699" />
-    <state width="2494" height="360" key="GridCell.Tab.0.center" timestamp="1586981341698">
+    <state x="100" y="148" width="2360" height="1192" key="DiffContextDialog/0.48.2560.1392@0.48.2560.1392" timestamp="1587249416138" />
+    <state x="954" y="386" width="642" height="725" key="FileChooserDialogImpl" timestamp="1587055352086">
       <screen x="0" y="48" width="2560" height="1392" />
     </state>
-    <state width="2494" height="360" key="GridCell.Tab.0.center/0.48.2560.1392@0.48.2560.1392" timestamp="1586981341698" />
-    <state width="2494" height="360" key="GridCell.Tab.0.left" timestamp="1586981341698">
+    <state x="954" y="386" width="642" height="725" key="FileChooserDialogImpl/0.48.2560.1392@0.48.2560.1392" timestamp="1587055352086" />
+    <state width="2494" height="864" key="GridCell.Tab.0.bottom" timestamp="1587249392584">
       <screen x="0" y="48" width="2560" height="1392" />
     </state>
-    <state width="2494" height="360" key="GridCell.Tab.0.left/0.48.2560.1392@0.48.2560.1392" timestamp="1586981341698" />
-    <state width="2494" height="360" key="GridCell.Tab.0.right" timestamp="1586981341699">
+    <state width="2494" height="864" key="GridCell.Tab.0.bottom/0.48.2560.1392@0.48.2560.1392" timestamp="1587249392584" />
+    <state width="2494" height="864" key="GridCell.Tab.0.center" timestamp="1587249392583">
       <screen x="0" y="48" width="2560" height="1392" />
     </state>
-    <state width="2494" height="360" key="GridCell.Tab.0.right/0.48.2560.1392@0.48.2560.1392" timestamp="1586981341699" />
+    <state width="2494" height="864" key="GridCell.Tab.0.center/0.48.2560.1392@0.48.2560.1392" timestamp="1587249392583" />
+    <state width="2494" height="864" key="GridCell.Tab.0.left" timestamp="1587249392582">
+      <screen x="0" y="48" width="2560" height="1392" />
+    </state>
+    <state width="2494" height="864" key="GridCell.Tab.0.left/0.48.2560.1392@0.48.2560.1392" timestamp="1587249392582" />
+    <state width="2494" height="864" key="GridCell.Tab.0.right" timestamp="1587249392583">
+      <screen x="0" y="48" width="2560" height="1392" />
+    </state>
+    <state width="2494" height="864" key="GridCell.Tab.0.right/0.48.2560.1392@0.48.2560.1392" timestamp="1587249392583" />
+    <state width="2494" height="445" key="GridCell.Tab.1.bottom" timestamp="1587055361588">
+      <screen x="0" y="48" width="2560" height="1392" />
+    </state>
+    <state width="2494" height="445" key="GridCell.Tab.1.bottom/0.48.2560.1392@0.48.2560.1392" timestamp="1587055361588" />
+    <state width="2494" height="445" key="GridCell.Tab.1.center" timestamp="1587055361588">
+      <screen x="0" y="48" width="2560" height="1392" />
+    </state>
+    <state width="2494" height="445" key="GridCell.Tab.1.center/0.48.2560.1392@0.48.2560.1392" timestamp="1587055361588" />
+    <state width="2494" height="445" key="GridCell.Tab.1.left" timestamp="1587055361587">
+      <screen x="0" y="48" width="2560" height="1392" />
+    </state>
+    <state width="2494" height="445" key="GridCell.Tab.1.left/0.48.2560.1392@0.48.2560.1392" timestamp="1587055361587" />
+    <state width="2494" height="445" key="GridCell.Tab.1.right" timestamp="1587055361588">
+      <screen x="0" y="48" width="2560" height="1392" />
+    </state>
+    <state width="2494" height="445" key="GridCell.Tab.1.right/0.48.2560.1392@0.48.2560.1392" timestamp="1587055361588" />
     <state x="797" y="494" key="com.intellij.ide.util.TipDialog" timestamp="1586897327562">
       <screen x="0" y="48" width="2560" height="1392" />
     </state>
     <state x="797" y="494" key="com.intellij.ide.util.TipDialog/0.48.2560.1392@0.48.2560.1392" timestamp="1586897327562" />
+    <state x="773" y="46" width="1009" height="1470" key="search.everywhere.popup" timestamp="1587241029840">
+      <screen x="0" y="48" width="2560" height="1392" />
+    </state>
+    <state x="773" y="46" width="1009" height="1470" key="search.everywhere.popup/0.48.2560.1392@0.48.2560.1392" timestamp="1587241029840" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/test$primegold.coverage" NAME="primegold Coverage Results" MODIFIED="1586981341679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$scratch_3.coverage" NAME="scratch_3 Coverage Results" MODIFIED="1586980844705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/test$primegold.coverage" NAME="primegold Coverage Results" MODIFIED="1587249364035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$scratch_3.coverage" NAME="scratch_3 Coverage Results" MODIFIED="1587052195308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </project>
